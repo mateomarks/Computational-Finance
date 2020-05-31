@@ -2,5 +2,5 @@ numpy
 matplotlib
 pandas
 yfinance
-scipy.stats
+scipy
 statsmodels
