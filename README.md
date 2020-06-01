@@ -7,5 +7,7 @@ This repo is a personal portfolio of multiple projects associated to the market-
 You can find more info at my blog [Road2Quant](https://www.road2quant.com/categories/comp-finance)
 
 ## Index
-1. [Are Stocks Normally Distributed?](01 Normality Check.ipynb)
-2. [Black Scholes - Geometric Brownian Simulation](02 BSM Brownian.ipynb)
+1. [Are Stocks Normally Distributed?](./01%20Normality%20Check.ipynb)
+2. [Black Scholes - Geometric Brownian Simulation](./02%20BSM%20Brownian.ipynb)
+
+
